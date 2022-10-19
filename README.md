@@ -4,6 +4,6 @@ Python.
 
 I will contain my versions of the projects of the book.
 
-LIST:
-  My Version       Book's Version
+My Version of Some Projects:
+
   crazy_vowels ->  Bagels.py
